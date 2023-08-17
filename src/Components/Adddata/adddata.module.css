@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+
+.addlist {
+    background-image: url(image/photo-1568738351265-c7065f5d4293\ \(1\).avif);
+    position: relative;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid white;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 38px;
+    text-shadow: 0 3px 0 #bbb;
+}
+
+label {
+    font-weight: bold;
+    color: black;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 7px;
+}
